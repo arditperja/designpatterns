@@ -1,6 +1,7 @@
 
 Java Design Patterns
 
+A design patterns are well-proved solution for solving the specific problem/task.
 
 Some of the benefits of using design patterns are:
 

@@ -25,6 +25,4 @@ public class EagerInitializedSingleton {
     public final static EagerInitializedSingleton getInstance(){
         return instance;
     }
-
-
 }
