@@ -1,4 +1,4 @@
-package com.designpattern.singletonpattern;
+package com.designpattern.creational.singletonpattern;
 
 /**
  * @author perja
