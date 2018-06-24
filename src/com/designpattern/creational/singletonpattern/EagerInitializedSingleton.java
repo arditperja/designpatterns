@@ -22,7 +22,7 @@ public class EagerInitializedSingleton {
      * Is the stat
      * @return the instance
      */
-    public final static EagerInitializedSingleton getInstance(){
+    public static EagerInitializedSingleton getInstance(){
         return instance;
     }
 }
